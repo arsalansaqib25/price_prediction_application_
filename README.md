@@ -179,10 +179,10 @@ Add screenshots of:
 Machine Learning | Data Science | Python | Streamlit
 
 LinkedIn:
-
+www.linkedin.com/in/arsalan-saqib25
 
 GitHub:
-
+https://github.com/arsalansaqib25/price_prediction_application_.git
 
 ---
 
