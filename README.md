@@ -130,7 +130,7 @@ The models are evaluated using:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Used-Car-Price-Prediction.git
+git clone https://github.com/Arsalansaqib25/Used-Car-Price-Prediction-.git
 ```
 
 ### 2. Move into the Project Folder
@@ -157,19 +157,7 @@ streamlit run Home.py
 
 Streamlit App:
 
-**Add your Streamlit deployment link here after deployment.**
-
----
-
-## 📷 Application Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Prediction Page
-* Analytics Dashboard
-* About Page
-
+https://carvaluepro.streamlit.app
 ---
 
 ## 👨‍💻 Author
